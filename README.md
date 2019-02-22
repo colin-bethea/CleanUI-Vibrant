@@ -2,6 +2,5 @@
 A lightweight, simple chrome theme with a vibrant, colorful touch.
 
 # Preview
+<img src="https://www.w3schools.com/images/w3schools_green.jpg" alt="W3Schools.com">
 
-<img src="https://imgur.com/asSeREe"></img>
-<img src="https://imgur.com/6wPAlxR"></img>
